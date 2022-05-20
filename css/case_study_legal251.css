@@ -1860,6 +1860,7 @@ img {
   margin-left: 60px;
   padding-right: 0px;
   padding-left: 0px;
+  padding-top: 40px;
   -webkit-align-self: center;
   -ms-flex-item-align: center;
   -ms-grid-row-align: center;
@@ -2844,7 +2845,7 @@ img {
 
 .heading-8 {
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 16px;
   font-family: Gilroy, Georgia, sans-serif;
   color: #262626;
   font-size: 75px;
