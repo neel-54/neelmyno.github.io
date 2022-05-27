@@ -3009,7 +3009,8 @@ img {
     font-size: 400%;
   }
   .title {
-    font-size: 285%;
+    font-size: 260%;
+    /* font-size: 285%; */
   }
   .slider {
     -webkit-box-orient: horizontal;
