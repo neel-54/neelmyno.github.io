@@ -1647,7 +1647,7 @@ textarea.w-select {
   top: 100%;
   left: 0;
   right: 0;
-  background: #c8c8c8;
+  background: #f2f2f2;
   text-align: center;
   overflow: visible;
   min-width: 200px;
@@ -1704,8 +1704,8 @@ textarea.w-select {
   outline: 0;
 }
 .w-nav-button.w--open {
-  background-color: #c8c8c8;
-  color: white;
+  background-color: #f2f2f2;
+  color: #262626;
 }
 .w-nav[data-collapse="all"] .w-nav-menu {
   display: none;
