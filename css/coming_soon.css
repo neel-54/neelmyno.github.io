@@ -1931,7 +1931,7 @@ img {
 
 .navbar-light-brand {
   display: block;
-  margin-right: 35%;
+  margin-right: 10%;
   margin-left: 0%;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -1948,7 +1948,7 @@ img {
 }
 
 .navbar-light-brand.w--current {
-  margin-right: 35%;
+  margin-right: 10%;
   margin-left: 0%;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -3453,17 +3453,17 @@ img {
 
 @media screen and (min-width: 1280px) {
   .navbar-light-brand.w--current {
-    margin-right: 35%;
+    margin-right: 25%;
   }
 }
 
 @media screen and (min-width: 1440px) {
   .navbar-light-brand {
-    margin-right: 40%;
+    margin-right: 35%;
   }
 
   .navbar-light-brand.w--current {
-    margin-right: 40%;
+    margin-right: 35%;
   }
 
   .my-name {
@@ -3510,11 +3510,11 @@ img {
 
 @media screen and (min-width: 1920px) {
   .navbar-light-brand {
-    margin-right: 55%;
+    margin-right: 45%;
   }
 
   .navbar-light-brand.w--current {
-    margin-right: 55%;
+    margin-right: 45%;
   }
 
   .div-block-4 {
